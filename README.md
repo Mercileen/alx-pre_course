@@ -1,2 +1,2 @@
 1. Repo-session
-README up to date from github
+README.md up to date from github
